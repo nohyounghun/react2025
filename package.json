@@ -2,7 +2,7 @@
   "name": "kdt",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/nohyounghun/react2025.git",
+  "homepage": "https://nohyounghun.github.io/react2025/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
     "@fortawesome/free-solid-svg-icons": "^6.7.2",
