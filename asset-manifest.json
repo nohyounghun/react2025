@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nohyounghun/react2025.git/static/css/main.23f2d58a.css",
-    "main.js": "/nohyounghun/react2025.git/static/js/main.d2f22a2f.js",
-    "static/media/item1.jpg": "/nohyounghun/react2025.git/static/media/item1.d209a0c3661039eef864.jpg",
-    "static/media/item2.jpg": "/nohyounghun/react2025.git/static/media/item2.a69e51d623c35994fad7.jpg",
-    "index.html": "/nohyounghun/react2025.git/index.html",
-    "main.23f2d58a.css.map": "/nohyounghun/react2025.git/static/css/main.23f2d58a.css.map",
-    "main.d2f22a2f.js.map": "/nohyounghun/react2025.git/static/js/main.d2f22a2f.js.map"
+    "main.css": "/static/css/main.1e2f3374.css",
+    "main.js": "/static/js/main.1938e67f.js",
+    "static/media/item1.jpg": "/static/media/item1.d209a0c3661039eef864.jpg",
+    "static/media/item2.jpg": "/static/media/item2.a69e51d623c35994fad7.jpg",
+    "index.html": "/index.html",
+    "main.1e2f3374.css.map": "/static/css/main.1e2f3374.css.map",
+    "main.1938e67f.js.map": "/static/js/main.1938e67f.js.map"
   },
   "entrypoints": [
-    "static/css/main.23f2d58a.css",
-    "static/js/main.d2f22a2f.js"
+    "static/css/main.1e2f3374.css",
+    "static/js/main.1938e67f.js"
   ]
 }
